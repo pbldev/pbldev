@@ -51,7 +51,7 @@ I'm a **Computer Engineering Student** in my second year, currently navigating t
 ### &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/azizovrafael">
+<a href="https://github.com/pbldev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pbldev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pbldev&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
