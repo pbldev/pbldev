@@ -1,6 +1,17 @@
-<h1 align="center">Hi , I'm Ahmed Hossam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Pablo Franco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=300px alt="Unicorn" src="https://media1.tenor.com/m/up4b4PSELdkAAAAC/tux-linux.gif" />
+<img align="right" width=200px alt="Unicorn" src="https://media1.tenor.com/m/up4b4PSELdkAAAAC/tux-linux.gif" />
+
+<!--Introduction -->
+I'm a **Computer Engineering Student** in my second year, currently navigating the steep learning curve of programming and systems. I have a love-hate relationship with my setup: I spend hours tweaking things just to end up pivoting to something else when it gets too tedious.
+
+- 📚 I’m currently learning C++ and Visual Basic .NET extensively to strengthen my programming foundations and logic.
+- 🐝 I’ve jumped between Arch Linux and Fedora, spending more time rice-ing the desktop than actually working
+- 🔭 I'm currently improving my workflow by migrating my projects to Visual Studio Code and keeping everything synchronized via GitHub.
+- 🌱 I'm looking to get more familiar with advanced shell scripting and automating my workflow via GitHub.
+- 🍰 Fun fact: I'm a huge fan of anime and I'm a bit of a perfectionist with hardware; I find applying thermal paste and cable management strangely therapeutic.
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
