@@ -3,6 +3,7 @@
 <img align="right" width=200px alt="Unicorn" src="https://media1.tenor.com/m/up4b4PSELdkAAAAC/tux-linux.gif" />
 
 <!--Introduction -->
+### &nbsp;About Me
 I'm a **Computer Engineering Student** in my second year, currently navigating the steep learning curve of programming and systems. I have a love-hate relationship with my setup: I spend hours tweaking things just to end up pivoting to something else when it gets too tedious.
 
 - 📚 I’m currently learning C++ and Visual Basic .NET extensively to strengthen my programming foundations and logic.
@@ -46,3 +47,12 @@ I'm a **Computer Engineering Student** in my second year, currently navigating t
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p> <br>
+
+### &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/azizovrafael">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pbldev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pbldev&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
